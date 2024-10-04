@@ -1,0 +1,12 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Utilisateur		TAR	233	nouvelle taille enregistrement : 233
+Utilisateur		IDE-*		fichier sans identifiant
+Utilisateur	IDUtilisateur	CNW	Chaîne$Identifiant automatique (8 octets)	la rubrique IDUtilisateur a pour nouveau type Chaîne
+Utilisateur	Nomag	RUB+		Nomag est une nouvelle rubrique
+Utilisateur	postnomag	RUB+		postnomag est une nouvelle rubrique
+Utilisateur	prenonag	RUB+		prenonag est une nouvelle rubrique
+Utilisateur	Sexeag	RUB+		Sexeag est une nouvelle rubrique
+Utilisateur	Telephoneag	RUB+		Telephoneag est une nouvelle rubrique
+Utilisateur	Matricatgent	RUB-		la clé Matricatgent est supprimée
+Contrainte_Utilisateur_agent		DEL	agent (Matricatgent) et Utilisateur (Matricatgent)	Liaison supprimée entre les fichiers agent (Matricatgent) et Utilisateur (Matricatgent)
+Contrainte_connexion_Utilisateur		DEL	Utilisateur (IDUtilisateur) et connexion (IDUtilisateur)	Liaison supprimée entre les fichiers Utilisateur (IDUtilisateur) et connexion (IDUtilisateur)

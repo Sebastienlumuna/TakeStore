@@ -1,0 +1,3 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+client		NFI		nouveau fichier
+agent		FIC-	agent	Fichier supprimé agent

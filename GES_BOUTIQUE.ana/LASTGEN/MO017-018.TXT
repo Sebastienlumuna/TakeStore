@@ -1,0 +1,7 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+taux	Taux	CLEU*		la rubrique Taux est maintenant une clé
+vente		TAR	258	nouvelle taille enregistrement : 258
+vente	Taux	RUB+		Taux est une nouvelle clé
+vente	IDtaux	RUB-		la clé IDtaux est supprimée
+Contrainte_vente_taux		NWL	taux (Taux) et vente (Taux)	Nouvelle liaison entre les fichiers taux (Taux) et vente (Taux)
+Contrainte_vente_taux		DEL	taux (IDtaux) et vente (IDtaux)	Liaison supprimée entre les fichiers taux (IDtaux) et vente (IDtaux)

@@ -1,0 +1,26 @@
+[OPTIONS]
+Compiled File=Documentation_app_store_take005.chm
+Title=
+Contents File=Documentation_app_store_take.hhc
+Index File=Documentation_app_store_take.hhk
+Error Log File=Documentation_app_store_take005.err
+Display Compile Progress=Yes
+Display Compile Notes=Yes
+Full-Text Search=Yes
+Binary Index=Yes
+Auto Index=No
+Enhanced Decompilation=No
+Binary TOC=No
+Flat=Yes
+Default Window=main
+[WINDOWS]
+main="","Documentation_app_store_take.hhc","Documentation_app_store_take.hhk","","","","","","",0x2420,,0x3806,[34,10,734,1010],,,,0x0,,,0
+
+
+[FILES]
+Nouveaute.htm
+PageNouveaute1.htm
+?X
+
+[MAP]
+#include mapid.h

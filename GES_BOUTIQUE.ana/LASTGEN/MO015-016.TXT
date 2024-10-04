@@ -1,0 +1,6 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+vente		NFI		nouveau fichier
+Contrainte_vente_taux		NWL	taux (IDtaux) et vente (IDtaux)	Nouvelle liaison entre les fichiers taux (IDtaux) et vente (IDtaux)
+Contrainte_vente_client		NWL	client (IDclient) et vente (IDclient)	Nouvelle liaison entre les fichiers client (IDclient) et vente (IDclient)
+Contrainte_vente_Utilisateur		NWL	Utilisateur (IDUtilisateur) et vente (IDUtilisateur)	Nouvelle liaison entre les fichiers Utilisateur (IDUtilisateur) et vente (IDUtilisateur)
+Contrainte_vente_stock		NWL	stock (Codestock) et vente (Codestock)	Nouvelle liaison entre les fichiers stock (Codestock) et vente (Codestock)

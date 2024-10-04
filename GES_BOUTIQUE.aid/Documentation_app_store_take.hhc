@@ -1,0 +1,16 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<BODY>
+<UL>
+<li><object type="text/sitemap">
+<param name="Name" value="Nouveautés">
+</object>
+<ul>
+<li><object type="text/sitemap">
+<param name="Name" value="19/07/2024">
+<param name="Local" value="PageNouveaute1.htm">
+</object>
+</ul>
+</UL>
+</BODY>
+</HTML>

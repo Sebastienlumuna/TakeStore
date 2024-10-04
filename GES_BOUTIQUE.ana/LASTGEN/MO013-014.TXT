@@ -1,0 +1,5 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+connexion		TAR	87	nouvelle taille enregistrement : 87
+connexion	IDUtilisateur	RUB+		IDUtilisateur est une nouvelle clé
+connexion	IDUtilisateur	RUB-		la clé IDUtilisateur est supprimée
+Contrainte_connexion_Utilisateur		NWL	Utilisateur (IDUtilisateur) et connexion (IDUtilisateur)	Nouvelle liaison entre les fichiers Utilisateur (IDUtilisateur) et connexion (IDUtilisateur)

@@ -1,0 +1,4 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+vente		TAR	256	nouvelle taille enregistrement : 256
+vente		IDE+*		fichier avec identifiant
+vente	Numvente	CNW	Identifiant automatique (4 octets)$Chaîne	la rubrique Numvente a pour nouveau type Identifiant automatique (4 oct
